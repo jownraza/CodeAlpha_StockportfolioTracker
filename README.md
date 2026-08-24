@@ -10,7 +10,6 @@ Users can add stocks with quantity and buy price, and view total investment in t
 - Add new stocks with name, quantity, and buy price
 - Update quantity if same stock is added again
 - View complete portfolio with total investment value
-- Simple menu based interface
 - Input validation for numbers
 
 ## How to Run
