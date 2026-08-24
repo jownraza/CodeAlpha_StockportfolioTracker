@@ -16,7 +16,7 @@ Users can add stocks with quantity and buy price, and view total investment in t
 ## How to Run
  Make sure you have Python 3 installed
 Run the command: `2nd.py`
- Enter `1` to Add Stock, `2` to View Portfolio, `3` to Exit
+
 
 ## Author
 **Name:** Muhammad Jown Raza
