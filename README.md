@@ -14,11 +14,9 @@ Users can add stocks with quantity and buy price, and view total investment in t
 - Input validation for numbers
 
 ## How to Run
-1. Make sure you have Python 3 installed
-2. Download the file `stock_portfolio.py`
-3. Open terminal or command prompt
-4. Run the command: `python stock_portfolio.py`
-5. Enter `1` to Add Stock, `2` to View Portfolio, `3` to Exit
+ Make sure you have Python 3 installed
+Run the command: `2nd.py`
+ Enter `1` to Add Stock, `2` to View Portfolio, `3` to Exit
 
 ## Author
 **Name:** Muhammad Jown Raza
