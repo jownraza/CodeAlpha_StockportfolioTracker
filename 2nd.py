@@ -1,4 +1,4 @@
-# Task 2: Stock Portfolio Tracker
+
 
 # Hardcoded stock prices dictionary
 stock_prices = {
